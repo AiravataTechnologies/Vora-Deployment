@@ -16,11 +16,11 @@ export const FooterSection = (): JSX.Element => {
   const contactInfo = [
     {
       icon: <Phone className="w-4 h-4" />,
-      text: "+91 98201 29358",
+      text: "+91 98209 74399",
     },
     {
       icon: <Mail className="w-4 h-4" />,
-      text: "Ashit@ves.co.in",
+      text: "vora@ves.co.in",
     },
     {
       icon: <MapPin width={50} height={50} />,
