@@ -59,12 +59,12 @@ export const ContactSection = () => {
   const contactInfo = [
     {
       title: "Call Us",
-      value: "+91 98201 29358",
+      value: "+91 98209 74399",
       icon: Phone,
     },
     {
       title: "Email Us",
-      value: "Ashit@ves.co.incom",
+      value: "vora@ves.co.in",
       icon: Mail,
     },
   ];
