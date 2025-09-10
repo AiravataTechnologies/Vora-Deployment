@@ -271,7 +271,7 @@ const ContactContent = () => {
                                 <h3 className="text-xl font-medium mb-3">Call Us</h3>
                                 <p className="text-gray-600 mb-4">Available 24/7 for emergencies</p>
                                 <a href="tel:+919820129358" className="text-lg font-medium hover:text-yellow-500 transition-colors duration-300">
-                                    +91 98201 29358
+                                    +91 98209 74399
                                 </a>
                             </div>
                         </AnimatedSection>
@@ -285,7 +285,7 @@ const ContactContent = () => {
                                 <h3 className="text-xl font-medium mb-3">Email Us</h3>
                                 <p className="text-gray-600 mb-4">We'll respond within 24 hours</p>
                                 <a href="mailto:Ashit@ves.co.in" className="text-lg font-medium hover:text-yellow-500 transition-colors duration-300">
-                                    Ashit@ves.co.in
+                                    vora@ves.co.in
                                 </a>
                             </div>
                         </AnimatedSection>
